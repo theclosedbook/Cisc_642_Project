@@ -55,6 +55,9 @@ Investigating additional optimizations for distributed training pipelines.
 
 Check out our GitHub repository for the implementation details and code.
 
+Check out the Linkedin post - https://www.linkedin.com/pulse/implementation-paper-priority-based-parameter-p3-dnn-dhanankam-e8dre/?trackingId=LGJ34VlNRkGzV4vRUWRmVw%3D%3D 
+
+
 🔗 Let’s Connect
 
 We’d love to hear your thoughts, feedback, and ideas for collaboration. Feel free to share your insights in the comments or reach out directly.
